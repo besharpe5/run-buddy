@@ -43,6 +43,23 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/* Hero Section Start */
+.hero {
+    background-image: url("/Users/bensharpe/Desktop/projects/run_buddy/assets/images/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+/* Hero Section End*/
+
+.hero-form {
+    color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
+}
+
 footer {
     background-color: #fce138;
     width: 100%;
@@ -64,4 +81,8 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
 }
